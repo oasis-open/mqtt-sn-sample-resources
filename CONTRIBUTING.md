@@ -1,6 +1,6 @@
 # Contributing
 
-##Public Participation Invited
+## Public Participation Invited
 
 This [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories) ( https://github.com/oasis-open/mqtt-sn-sample-resources ) is a community public repository that supports participation by anyone, whether affiliated with OASIS or not.  Substantive contributions and related feedback is invited from all parties, following the common conventions for participation in GitHub public repository projects.  Participation is expected to be consistent with the [OASIS TC Open Repository Guidelines and Procedures](https://www.oasis-open.org/policies-guidelines/open-repositories), the [LICENSE](LICENSE) designated for this particular repository (Apache-2.0), and the requirement for an [Individual Contributor License Agreement](https://cla-assistant.io/oasis-open/mqtt-sn-sample-resources). Please see the repository [README](https://github.com/oasis-open/mqtt-sn-sample-resources/blob/master/README.md) for other details.
 
