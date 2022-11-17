@@ -23,7 +23,7 @@ TC Open Repository [maintainers](https://www.oasis-open.org/resources/open-repos
 The initial Maintainers of this TC Open Repository are: 
 
 - Ian Craggs, icraggs@gmail.com, icraggs, individual member
-- Simon Johnson, simon.johnson@u-blox.com, simon622, u-blox AG
+- Simon Johnson, simon622@gmail.com, simon622, individual member
 - Tara Walker, tara.walker@microsoft.com, tawalke, Microsoft
 
 ## About OASIS TC Open Repositories
