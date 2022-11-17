@@ -45,6 +45,6 @@ Questions or comments about this TC Open Repository's activities should be compo
 This section contains noteable repositories that contain works in the open-source related to the MQTT-SN specifications. These maybe examples of Gateways, Clients or both.
 
 - [MQTT-SN Gateway & Client](https://github.com/simon622/mqtt-sn): Full Java implementation (with CLIs) of MQTT-SN Version 1.2 & Version 2.0 aggregating Gateway and Client.
-- 
+
 ## Documents
 - [MQTT-SN Specification Version 1.2](ibm-mqtts-reference-1.2/mqtt-s.pdf)
