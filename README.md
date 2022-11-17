@@ -48,5 +48,5 @@ This section contains noteable repositories that contain works in the open-sourc
 
 ## Documents
 - [MQTT-S Specification](ibm-mqtts-reference-1.2/mqtt-s.pdf): Original specification by Urs Hunkeler, Hong Linh Truong & Andy Stanford-Clark
-- [MQTT-SN Specification Version 1.2](ibm-mqtts-reference-1.2/mqtt-s.pdf): Version 1.2 specification by Andy Stanford-Clark & Hong Linh Truong
+- [MQTT-SN Specification Version 1.2](docs/mqtt-s.pdf): Version 1.2 specification by Andy Stanford-Clark & Hong Linh Truong
 - [MQTT-SN Version 2.0 Implementation Guide](docs/mqtt-sn-implementation-guide.adoc): Guidelines and examples to aid implementers by Ian Craggs & Simon Johnson ***NB: This is Work In Progress***.
