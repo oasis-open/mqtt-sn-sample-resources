@@ -23,7 +23,7 @@ TC Open Repository [maintainers](https://www.oasis-open.org/resources/open-repos
 The initial Maintainers of this TC Open Repository are: 
 
 - Ian Craggs, icraggs@gmail.com, icraggs, individual member
-- Simon Johnson, simon.johnson@u-blox.com, simon622, u-blox AG
+- Simon Johnson, simon622@gmail.com, simon622, individual member
 - Tara Walker, tara.walker@microsoft.com, tawalke, Microsoft
 
 ## About OASIS TC Open Repositories
@@ -36,3 +36,15 @@ The initial Maintainers of this TC Open Repository are:
 ## Feedback
 
 Questions or comments about this TC Open Repository's activities should be composed as GitHub issues or comments. If use of an issue/comment is not possible or appropriate, questions may be directed by email to the Maintainer(s) listed above. Please send general questions about TC Open Repository participation to OASIS Staff at repository-admin@oasis-open.org.
+
+## Contents
+
+- [IBM Reference Version 1.2](ibm-mqtts-reference-1.2): the IBM "reference" implementation created when the first specification was written
+
+## Repositories
+This section contains noteable repositories that contain works in the open-source related to the MQTT-SN specifications. These maybe examples of Gateways, Clients or both.
+
+- [MQTT-SN Gateway & Client](https://github.com/simon622/mqtt-sn): Full Java implementation (with CLIs) of MQTT-SN Version 1.2 & Version 2.0 aggregating Gateway and Client.
+- 
+## Documents
+- [MQTT-SN Specification Version 1.2](ibm-mqtts-reference-1.2/mqtt-s.pdf)
