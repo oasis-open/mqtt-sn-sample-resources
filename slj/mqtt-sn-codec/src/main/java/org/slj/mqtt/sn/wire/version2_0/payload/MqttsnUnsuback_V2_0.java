@@ -59,7 +59,7 @@ public class MqttsnUnsuback_V2_0 extends AbstractMqttsnMessage implements IMqtts
         msg[idx++] = (byte) ((id >> 8) & 0xFF);
         msg[idx++] = (byte) (id & 0xFF);
 
-        msg[idx++] = (byte) (returnCode);
+        msg[idx] = (byte) (returnCode);
 
         return msg;
     }
