@@ -87,7 +87,7 @@ The authentication section doesn't say anything about the use of the AUTH packet
 === Subscription Storage Examples At Scale ===
 The topic/subscription tree is the beating heart of any MQTT Broker / Gateway or indeed Client implementation. Having tried a few data structures out over the years, the one noted to be the most time and memory efficient was a token based Trie implementation. I have open-sourced a version which demonstrates the technique of storing topics in a normalized way, allowing fast hash based lookups. The time complexity is a function of the depth of the Tries tree.
 
-[MQTT Tree](https://github.com/simon622/mqtt-tree) example demonstrating a Tries tree approach.
+https://github.com/simon622/mqtt-tree[MQTT Tree Example,role=external,window=_blank]
 
 == Publishing (PUBLISH) ==
 === Quality of Service -1 ===
