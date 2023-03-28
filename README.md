@@ -40,7 +40,7 @@ Questions or comments about this TC Open Repository's activities should be compo
 ## Contents
 
 - [IBM Reference Version 1.2](ibm-mqtts-reference-1.2): the IBM "reference" implementation created when the first specification was written
-- [Java Codecs 1.2 & 2.0](slj/mqtt-sn-codec): Dependency free Java codecs written to support Version 1.2 & Version 2.0
+- [Java Codecs 1.2 & 2.0](slj-mqttsn-library/mqtt-sn-codec): Dependency free Java codecs written to support Version 1.2 & Version 2.0
 
 ## Repositories
 This section contains noteable repositories that contain works in the open-source related to the MQTT-SN specifications. These maybe examples of Gateways, Clients or both.
