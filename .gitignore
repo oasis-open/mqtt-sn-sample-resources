@@ -1,0 +1,6 @@
+/mqtt-sn-codec/target/
+/.idea/php.xml
+/.idea/vcs.xml
+/ibm-mqtts-reference-1.2/udp-client/udp-client.iml
+/ibm-mqtts-reference-1.2/gateway/gateway.iml
+/.idea/
